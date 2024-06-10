@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: tkinvest
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: postgres
+    driver-class-name: org.postgresql.Driver
+tinkoff:
+  starter:
+    apiToken:
+      fullAccess: t.hjRoshC-Y3x4Q_dFXr49QrhiEtBqdJkuhz1RwFjMdoLu69RBBDU_ciBJ5cFQ8h-xH-tBoiGVM5NamYcqsKFRvA
